@@ -1,4 +1,4 @@
-Just a  Frontend Project 
+Just a Frontend Project 
 
 # Getting Started with Create React App
 
